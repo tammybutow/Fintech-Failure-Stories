@@ -10,6 +10,9 @@ A compiled list of links to public failure stories related to Fintech. Most rece
   
 > Technology is indeed fallible. It does not always work as intended. Parts break, codes get old, and updates often have unintended consequences. As a business and as users of technology, we all make allowances for this. However, I feel that in this instance, our customers' patience has been tested," he said."  - Standard Bank CEO Lungisa Fuzile <br/>
 
+  <a href="https://timesofindia.indiatimes.com/business/india-business/digital-outage-hits-hdfc-bank-customers-again/articleshow/81767860.cms"> Digital outage hits HDFC Bank customers again - The Times of India - March 2021
+  involved: loss of connection to data centres <br/> 
+  impact: outage. internet banking and mobile banking. <br/>
 
 # 2020
 
