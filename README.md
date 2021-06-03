@@ -2,9 +2,20 @@
 
 A compiled list of links to public failure stories related to Fintech. Most recent publications on top.
 
+# 2021
+
+  <a href="Standard Bank clients hit by outages for days, but bank says problems are over"> Standard Bank clients hit by outages for days, but bank says problems are over</a> - Fin24 - May 2021. </br>
+  involved: hardware issue that impacted our Mobile App, Internet Banking and ATMs<br/>
+  impact: outage. downtime prevented customers from using the app, internet banking, ATM, and receiving one-time-passwords <br/>
+
 
 # 2020
 
   <a href="https://blog.robinhood.com/news/2020/3/3/an-update-from-robinhoods-founders"> Robinhood Outage - Robinhood Blog - March 2020<a>. <br />
   involved: stress on our infrastructure, unprecedented load, “thundering herd” effect, failure of DNS system. <br />
-  impact: outages. <br />
+  impact: outage. <br />
+# 2019
+  
+  <a href="https://www.nytimes.com/2019/08/16/business/lse-delay-stocks.html">Technical glitch delays trading at London Stock Exchange</a> - August 2019  <br/>
+  involved: “technical software issue” <br/>
+  impact: outage. Delayed opening the trading of the FTSE 100 and 250 indices by almost two hours on 16 August. An LSE spokesperson as said “there is an issue which is affecting trading in certain securities”. The Guardian states that the technical glitch caused LSE’s worst outage for eight years.<br/>
