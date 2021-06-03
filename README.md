@@ -7,6 +7,8 @@ A compiled list of links to public failure stories related to Fintech. Most rece
   <a href="Standard Bank clients hit by outages for days, but bank says problems are over"> Standard Bank clients hit by outages for days, but bank says problems are over - Fin24 - May 2021. </a></br>
   involved: hardware issue that impacted our Mobile App, Internet Banking and ATMs<br/>
   impact: outage. downtime prevented customers from using the app, internet banking, ATM, and receiving one-time-passwords <br/>
+  
+> Technology is indeed fallible. It does not always work as intended. Parts break, codes get old, and updates often have unintended consequences. As a business and as users of technology, we all make allowances for this. However, I feel that in this instance, our customers' patience has been tested," he said." - Standard Bank CEO Lungisa Fuzile <br/>
 
 
 # 2020
