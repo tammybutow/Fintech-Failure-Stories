@@ -19,8 +19,14 @@ A compiled list of links to public failure stories related to Fintech. Most rece
   <a href="https://blog.robinhood.com/news/2020/3/3/an-update-from-robinhoods-founders"> Robinhood Outage - Robinhood Blog - March 2020<a>. <br />
   involved: stress on our infrastructure, unprecedented load, “thundering herd” effect, failure of DNS system. <br />
   impact: outage. <br />
+  
+  
 # 2019
   
   <a href="https://www.nytimes.com/2019/08/16/business/lse-delay-stocks.html">Technical glitch delays trading at London Stock Exchange - August 2019. </a> <br/>
   involved: “technical software issue” <br/>
   impact: outage. Delayed opening the trading of the FTSE 100 and 250 indices by almost two hours on 16 August. An LSE spokesperson as said “there is an issue which is affecting trading in certain securities”. The Guardian states that the technical glitch caused LSE’s worst outage for eight years.<br/>
+  
+# Fintech Facts
+  
+  - Banks must report online banking glitches to the FCA if they meet certain criteria. These include incidents that, at the lower impact level, affect more than 10% of the payment service provider’s regular level of transactions, or 25% at the higher impact level.
