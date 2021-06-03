@@ -9,7 +9,7 @@ A compiled list of links to public failure stories related to Fintech. Most rece
   impact: outage. downtime prevented customers from using the app, internet banking, ATM, and receiving one-time-passwords <br/>
   
 > Technology is indeed fallible. It does not always work as intended. Parts break, codes get old, and updates often have unintended consequences. As a business and as users of technology, we all make allowances for this. However, I feel that in this instance, our customers' patience has been tested," he said." 
-> - Standard Bank CEO Lungisa Fuzile <br/>
+> Standard Bank CEO Lungisa Fuzile <br/>
 
 
 # 2020
