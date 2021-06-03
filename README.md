@@ -29,4 +29,4 @@ A compiled list of links to public failure stories related to Fintech. Most rece
   
 # Fintech Facts
   
-  - Banks must report online banking glitches to the FCA if they meet certain criteria. These include incidents that, at the lower impact level, affect more than 10% of the payment service provider’s regular level of transactions, or 25% at the higher impact level. View the reported incidents here: https://www.fca.org.uk/data-visualisation/operational-and-security-incidents 
+  - Banks must <a href="https://www.fca.org.uk/data-visualisation/operational-and-security-incidents">report online banking glitches to the FCA </a> if they meet certain criteria. These include incidents that, at the lower impact level, affect more than 10% of the payment service provider’s regular level of transactions, or 25% at the higher impact level. View the reported incidents here: https://www.fca.org.uk/data-visualisation/operational-and-security-incidents 
